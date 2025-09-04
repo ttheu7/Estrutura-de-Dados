@@ -1,0 +1,14 @@
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfo.cs
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\bin\Debug\net9.0\Pilhas.exe
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\bin\Debug\net9.0\Pilhas.deps.json
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\bin\Debug\net9.0\Pilhas.runtimeconfig.json
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\bin\Debug\net9.0\Pilhas.dll
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\bin\Debug\net9.0\Pilhas.pdb
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.dll
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\refint\Pilhas.dll
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.pdb
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\Pilhas.genruntimeconfig.cache
+C:\Users\450908\Desktop\Estrutura de Dados\Pilhas\obj\Debug\net9.0\ref\Pilhas.dll

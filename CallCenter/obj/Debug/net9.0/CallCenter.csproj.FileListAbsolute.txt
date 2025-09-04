@@ -1,0 +1,14 @@
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\bin\Debug\net9.0\CallCenter.exe
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\bin\Debug\net9.0\CallCenter.deps.json
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\bin\Debug\net9.0\CallCenter.runtimeconfig.json
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\bin\Debug\net9.0\CallCenter.dll
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\bin\Debug\net9.0\CallCenter.pdb
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.AssemblyInfo.cs
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.dll
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\refint\CallCenter.dll
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.pdb
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\CallCenter.genruntimeconfig.cache
+C:\Users\450908\Desktop\Estrutura de Dados\CallCenter\obj\Debug\net9.0\ref\CallCenter.dll

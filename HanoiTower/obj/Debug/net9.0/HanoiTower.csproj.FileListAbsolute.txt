@@ -1,0 +1,4 @@
+C:\Users\450908\Desktop\Estrutura de Dados\HanoiTower\obj\Debug\net9.0\HanoiTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Estrutura de Dados\HanoiTower\obj\Debug\net9.0\HanoiTower.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Estrutura de Dados\HanoiTower\obj\Debug\net9.0\HanoiTower.AssemblyInfo.cs
+C:\Users\450908\Desktop\Estrutura de Dados\HanoiTower\obj\Debug\net9.0\HanoiTower.csproj.CoreCompileInputs.cache
