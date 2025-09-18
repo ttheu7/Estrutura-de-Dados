@@ -1,0 +1,14 @@
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.AssemblyInfo.cs
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.csproj.CoreCompileInputs.cache
+C:\Users\450908\Desktop\Trees\trees\bin\Debug\net9.0\trees.exe
+C:\Users\450908\Desktop\Trees\trees\bin\Debug\net9.0\trees.deps.json
+C:\Users\450908\Desktop\Trees\trees\bin\Debug\net9.0\trees.runtimeconfig.json
+C:\Users\450908\Desktop\Trees\trees\bin\Debug\net9.0\trees.dll
+C:\Users\450908\Desktop\Trees\trees\bin\Debug\net9.0\trees.pdb
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.dll
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\refint\trees.dll
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.pdb
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\trees.genruntimeconfig.cache
+C:\Users\450908\Desktop\Trees\trees\obj\Debug\net9.0\ref\trees.dll
