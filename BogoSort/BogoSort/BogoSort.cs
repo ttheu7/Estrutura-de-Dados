@@ -22,7 +22,7 @@ namespace Boguinho
             Console.WriteLine($"\nNúmero de tentativas: {tries}");
         }
         
-        private static bool IsOrdenad(int[] array)
+        private static bool IsOrdened(int[] array)
         {
             for (int i = 0; i < array.Length - 1; i++)
             {
@@ -43,4 +43,5 @@ namespace Boguinho
             }
         }
     }
+
 }
