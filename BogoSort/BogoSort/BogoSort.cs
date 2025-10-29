@@ -13,7 +13,7 @@ namespace Boguinho
         {
             int tries = 0;
             
-            while (!IsOrdenad(array))
+            while (!IsOrdened(array))
             {
                 Shuffle(array);
                 tries++;
@@ -45,3 +45,4 @@ namespace Boguinho
     }
 
 }
+
