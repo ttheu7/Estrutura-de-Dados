@@ -1,0 +1,14 @@
+C:\Users\450908\Desktop\Projetos\Dicionarios\bin\Debug\net9.0\Dicionarios.exe
+C:\Users\450908\Desktop\Projetos\Dicionarios\bin\Debug\net9.0\Dicionarios.deps.json
+C:\Users\450908\Desktop\Projetos\Dicionarios\bin\Debug\net9.0\Dicionarios.runtimeconfig.json
+C:\Users\450908\Desktop\Projetos\Dicionarios\bin\Debug\net9.0\Dicionarios.dll
+C:\Users\450908\Desktop\Projetos\Dicionarios\bin\Debug\net9.0\Dicionarios.pdb
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.AssemblyInfo.cs
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.dll
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\refint\Dicionarios.dll
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.pdb
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\Dicionarios.genruntimeconfig.cache
+C:\Users\450908\Desktop\Projetos\Dicionarios\obj\Debug\net9.0\ref\Dicionarios.dll
