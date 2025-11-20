@@ -1,0 +1,14 @@
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.AssemblyInfoInputs.cache
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.AssemblyInfo.cs
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.csproj.CoreCompileInputs.cache
+C:\Users\450908\Desktop\Projetos\LogRastreio\bin\Debug\net9.0\LogRastreio.exe
+C:\Users\450908\Desktop\Projetos\LogRastreio\bin\Debug\net9.0\LogRastreio.deps.json
+C:\Users\450908\Desktop\Projetos\LogRastreio\bin\Debug\net9.0\LogRastreio.runtimeconfig.json
+C:\Users\450908\Desktop\Projetos\LogRastreio\bin\Debug\net9.0\LogRastreio.dll
+C:\Users\450908\Desktop\Projetos\LogRastreio\bin\Debug\net9.0\LogRastreio.pdb
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.dll
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\refint\LogRastreio.dll
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.pdb
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\LogRastreio.genruntimeconfig.cache
+C:\Users\450908\Desktop\Projetos\LogRastreio\obj\Debug\net9.0\ref\LogRastreio.dll
